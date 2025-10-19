@@ -6,3 +6,4 @@ public interface ExaminerService {
     List<Question> getQuestions(int amount);
 
 }
+
